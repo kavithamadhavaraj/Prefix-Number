@@ -21,9 +21,9 @@ Input Constraints
 1≤|N|≤105 where |N| is length of the number N
 
 # Sample Input
-5
+5 <br>
 7 21 18 3 12
 
 # Sample Output
-7 3 
+7 3 <br>
 12 18 21 
