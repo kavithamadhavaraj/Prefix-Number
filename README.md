@@ -19,3 +19,11 @@ A line that contains a very large number N(string of digits 0−9).
 Total number of ways to divide the string such that it follows the above constraints.
 Input Constraints
 1≤|N|≤105 where |N| is length of the number N
+
+# Sample Input
+5
+7 21 18 3 12
+
+# Sample Output
+7 3 
+12 18 21 
